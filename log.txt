@@ -7,3 +7,4 @@
 [2025-06-04T15:15:04.304Z] Opprettet en tabell i TSQL
 [2025-06-04T15:15:23.360Z] Opprettet en database
 [2025-06-04T15:15:40.978Z] Benyttet MIN() i TSQL
+[2025-06-04T15:16:04.878Z] Benyttet MAX() i TSQL
