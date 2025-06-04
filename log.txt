@@ -6,3 +6,4 @@
 [2025-06-04T15:14:43.198Z] Benyttet TOP i TSQL
 [2025-06-04T15:15:04.304Z] Opprettet en tabell i TSQL
 [2025-06-04T15:15:23.360Z] Opprettet en database
+[2025-06-04T15:15:40.978Z] Benyttet MIN() i TSQL
