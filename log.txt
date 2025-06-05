@@ -14,3 +14,4 @@
 [2025-06-04T15:29:00.460Z] Opprettet et subquery i TSQL
 [2025-06-05T04:13:19.730Z] Opprettet en user defined function i TSQL
 [2025-06-05T04:13:59.404Z] Benyttet Create Function i TSQL
+[2025-06-05T04:14:10.692Z] Benyttet WHERE i TSQL
