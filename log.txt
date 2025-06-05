@@ -16,3 +16,4 @@
 [2025-06-05T04:13:59.404Z] Benyttet Create Function i TSQL
 [2025-06-05T04:14:10.692Z] Benyttet WHERE i TSQL
 [2025-06-05T04:14:25.013Z] Benyttet ALTER Function i TSQL
+[2025-06-05T04:45:34.951Z] Opprettet en stored procedure i TSQL
