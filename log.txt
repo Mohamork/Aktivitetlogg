@@ -24,3 +24,4 @@
 [2025-06-05T04:46:47.670Z] Benyttet DELETE FROM WHERE i TSQL
 [2025-06-07T11:17:45.901Z] Nedlastet MSSQL
 [2025-06-07T11:18:08.492Z] Konfigurerte kryptering for remote queries i MSSQL
+[2025-06-07T11:18:46.067Z] Endre startup type for SQL Serevr Agent ved hjelp av SQL Server Configuration Manager
