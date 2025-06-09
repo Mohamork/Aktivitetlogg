@@ -27,3 +27,4 @@
 [2025-06-07T11:18:46.067Z] Endre startup type for SQL Serevr Agent ved hjelp av SQL Server Configuration Manager
 [2025-06-07T11:19:44.175Z] Endret TCP/IP Portnummere i MSSQL Server ved hjelp av SQL Server Configuration Manager
 [2025-06-09T19:13:17.434Z] Slo av Ipython Autoconfig
+[2025-06-09T19:13:31.259Z] Opprettet et Entity Relationship Diagram analogt
