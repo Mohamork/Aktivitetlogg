@@ -26,3 +26,4 @@
 [2025-06-07T11:18:08.492Z] Konfigurerte kryptering for remote queries i MSSQL
 [2025-06-07T11:18:46.067Z] Endre startup type for SQL Serevr Agent ved hjelp av SQL Server Configuration Manager
 [2025-06-07T11:19:44.175Z] Endret TCP/IP Portnummere i MSSQL Server ved hjelp av SQL Server Configuration Manager
+[2025-06-09T19:13:17.434Z] Slo av Ipython Autoconfig
