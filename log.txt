@@ -38,3 +38,4 @@
 [2025-06-11T13:34:59.716Z] Kjørte et Python script i Windows Powershell
 [2025-06-11T13:35:38.998Z] Benyttet Python Interpreter
 [2025-06-11T13:36:00.004Z] Startet Python Interpreter
+[2025-06-11T13:42:07.059Z] Kjørte et script i Python
