@@ -40,3 +40,4 @@
 [2025-06-11T13:36:00.004Z] Startet Python Interpreter
 [2025-06-11T13:42:07.059Z] Kjørte et script i Python
 [2025-06-11T13:42:15.474Z] La til kommentarer i et Python script
+[2025-06-11T13:45:11.575Z] Benyttet Dir() i Python
