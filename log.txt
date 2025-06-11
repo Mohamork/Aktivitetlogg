@@ -33,3 +33,4 @@
 [2025-06-11T13:17:31.769Z] Assigned values to a variable in Python
 [2025-06-11T13:21:29.807Z] Used the Print() function in Python
 [2025-06-11T13:21:59.390Z] Used the Input() function in Python
+[2025-06-11T13:34:05.819Z] Opprettet et Python  script
