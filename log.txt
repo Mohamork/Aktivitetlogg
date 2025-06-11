@@ -30,3 +30,4 @@
 [2025-06-09T19:13:31.259Z] Opprettet et Entity Relationship Diagram analogt
 [2025-06-09T19:13:46.858Z] Opprettet et entity relationship diagram digitalt
 [2025-06-09T19:16:31.547Z] opprettet en variabeli Python
+[2025-06-11T13:17:31.769Z] Assigned values to a variable in Python
